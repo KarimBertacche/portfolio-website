@@ -3055,7 +3055,7 @@ input, select, textarea {
 		}
 
 		.middle-content {
-			padding: 80px 2%;
+			padding: 80px 2% 10px;
 		}
 
 		.heading-tertiary {
